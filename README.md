@@ -1,6 +1,3 @@
-# Day-4-Software-Project-Management
-
-
 # SE_DAY4_Software-Project-Management
 
 
@@ -1021,3 +1018,5 @@ The second largest segment, Application Development Software, is experiencing st
 
 The last segment, Productivity Software, supports basic business activities in a digital environment and therefore helps companies to become more flexible in business processes and decision-making in order to react faster to market developments. The biggest segment, Office Software, makes up more than a third of the market and is used in many companies, dominated by Microsoft Office applications. In recent times, in particular the segment of Collaboration Software has become more attractive to companies that focus on agile methods and new work.
 ## 13. How can understanding market trends inform your software’s positioning and development?
+
+As a product manager, you need to understand the market trends and competition that affect your product's performance and potential. By analyzing these factors, you can identify opportunities, threats, and gaps in the market, and adjust your product strategy accordingly.
