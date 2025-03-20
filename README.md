@@ -484,12 +484,12 @@ Developing a detailed project schedule has several benefits, including:
 
 ## Gantt charts assist in this process by:
 
--Sources
--Providing visual clarity
--Enhancing communication
--Improving time and resource management
--Tracking progress
--Managing risks
+* Sources
+* Providing visual clarity
+* Enhancing communication
+* Improving time and resource management
+* Tracking progress
+* Managing risks
 
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
