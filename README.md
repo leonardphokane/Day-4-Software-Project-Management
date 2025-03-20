@@ -104,18 +104,18 @@ By carefully considering the project's needs and choosing the methodology that b
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 
-WHAT IS SOFTWARE QUALITY ASSURANCE: DEFINITION  
+## WHAT IS SOFTWARE QUALITY ASSURANCE: DEFINITION  
 Just before we define Software Quality Assurance, we must understand what Quality and Assurance mean.
 
-Quality
+## Quality
 An abridged meaning of quality is ‘ fit for the purpose.’ Simply put, this refers to meeting a client's demands and expectations regarding product specifications, performance, continuity, design and pricing.
 
-Assurance
+## Assurance
 On the other hand, assurance is a positive affirmation or verdict based on confidence in a product or service. This statement guarantees that a product’s functionality is at its peak and as expected.
 
 Such statements are given in trust and taken based on past track records of a company.
 
-Software Quality Assurance (SQA)
+## Software Quality Assurance (SQA)
 is a continuous process that guarantees that the software product conforms with the organization's established and standardized quality criteria.
 
 This is a set of procedures and actions carried out to ensure that all team members properly implement the tasks designated to them in a development cycle.
@@ -140,7 +140,7 @@ When caught by the in-house team, there are fewer problems, and the organisation
 
  
 
-Software quality assurance is also otherwise known as QA Testing.
+## Software quality assurance is also otherwise known as QA Testing.
 
 However, you must note that software quality assurance and software testing are two different terms, despite many developers using these phrases synonymously.
 
@@ -152,7 +152,7 @@ Software testing is a measure carried out with the central aim of identifying er
 
  
 
-QUALITY CONTROL  
+## QUALITY CONTROL  
 Quality control (QC) is a technique or group of procedures designed to guarantee that a manufactured product or service adheres to a predetermined set of quality criteria or satisfies the client or customer's specifications.
 
 Quality Control (QC) is a software engineering method to ensure product or service quality.
@@ -177,7 +177,7 @@ In the next section of this article, we will discuss the similarities and differ
 
  
 
-QUALITY ASSURANCE VS QUALITY CONTROL  
+## QUALITY ASSURANCE VS QUALITY CONTROL  
 Quality Assurance is often confused with Quality Control and is used interchangeably. However, they do not mean the same thing.
 
 While Quality Assurance is primarily based on the product and service process for fault prevention and control, Quality Control, on the other hand, focuses on the product/service and fault diagnosis.
@@ -187,7 +187,7 @@ The sole difference between these two concepts is hinged on their different aims
  
 
 
-SOFTWARE QUALITY ASSURANCE PROCESS  
+## SOFTWARE QUALITY ASSURANCE PROCESS  
 The PDCA cycle,  also known as the Deming Cycle, is a quality assurance procedure cycle with a specific format. The following are the stages of this process:
 
 
@@ -228,19 +228,19 @@ This contributes to the minimization of difficulties and errors in the final pro
 
  
 
-QUALITY ASSURANCE METHODS  
+## QUALITY ASSURANCE METHODS  
 Quality assurance employs one of the following methods:
 
  
 
-Failure Testing
+## Failure Testing
 Continuously testing a product to discover if it breaks or fails is known as failure testing. These failures may result from human errors incurred while developing the software, such as entering an incorrect input value or misinterpreting an output.
 
 This could involve testing the product with heat, pressure, or vibration for physical objects that must tolerate stress. In addition, the program may be subjected to heavy usage or load situations for software product failure testing.
 
  
 
-Statistical process control
+## Statistical process control
 In the 1920s, Walter Shewhart created statistical process control (SPC), a methodology based on objective data and analysis, at Western Electric Company and Bell Telephone Laboratories. This methodology manages and controls the creation of items using statistical methods.
 
 Statistical approaches are utilized to monitor and maintain product and service quality. Acceptance sampling is one method that can be used when a choice must be made to accept or reject a set of parts or items based on a sample's quality.
@@ -261,7 +261,7 @@ However, an emphasis is placed on fact-based decision-making, with performance i
 This SQA method employs quantitative techniques as a foundation for continual improvement. In addition, TQM uses facts, data, and analysis to help product planning and performance evaluations.
 
 
-EXAMPLES OF QUALITY ASSURANCE METHODS  
+## EXAMPLES OF QUALITY ASSURANCE METHODS  
 The following is a list of some of the most common approaches and techniques utilized in quality assurance:
 
 
@@ -283,7 +283,7 @@ Most organizations use some of these tools. Some methods are more involved than 
 
  
 
-WHY IS QUALITY ASSURANCE IMPORTANT?  
+## WHY IS QUALITY ASSURANCE IMPORTANT?  
 
 
 It's clear that software quality assurance is essential from the factors mentioned earlier in this article.
@@ -307,14 +307,14 @@ Read: What Is Software Testing: Definition, Basics & Concepts
 
  
 
-SOFTWARE QUALITY ASSURANCE BEST PRACTICES AND TECHNIQUES  
+## SOFTWARE QUALITY ASSURANCE BEST PRACTICES AND TECHNIQUES  
  
 
 Quality assurance involves multiple experts and isn't restricted to testing-ready software. Quality assurance begins before coding and continues after a product is released. Don't disregard QA if you want a quality product. Instead, follow these quality assurances and best practices to maximize this procedure.
 
 
 
-1. Include a QA team throughout the discovery phase.
+## 1. Include a QA team throughout the discovery phase.
 The majority of the time, the QA team enters the game just after some functionality has been produced and must be tested. Therefore, testers report any bugs that could have been avoided with appropriate planning.
 
  
@@ -350,7 +350,7 @@ New team members will benefit greatly from the testing documentation as well. Th
 
  
 
-3. Test-driven development
+## 3. Test-driven development
 Test-driven development is a type of agile software development methodology that’s become one of the main principles of extreme programming. To achieve the highest quality product, extreme programming values frequent releases in short development cycles, extensive code review (often achieved through pair programming) and unit tests that cover all the code.
 
 But, test-driven development is also used as a different approach to producing the highest quality code in the shortest amount of time.
@@ -361,7 +361,7 @@ Therefore, in an actual sense, software testing precedes programming. If testing
 
  
 
-4. Every feature requires code review
+## 4. Every feature requires code review
 Each new feature's development should begin in a single branch per quality assurance techniques. This method permits the tracking of modifications and their local testing. In addition, the development team can use these code reviews to check that everything functions as expected without compromising the already present functionality. Finally, after the feature has been programmed, it must be reviewed by another team member.
 
 The objective of code review is clear:
@@ -375,7 +375,7 @@ This will also help your company build and follow a coding standard. The resulti
 
 
 
-5. Always implement interaction testing
+## 5. Always implement interaction testing
 In isolation, a feature may work perfectly, but when combined with the rest of the product, it may cause all kinds of problems. That's why it's so essential to conduct integration tests.
 
  Additionally, it is essential to undertake environmental tests. When a feature is moved from the testing environment to the production environment, minor or extensive issues may become apparent.
@@ -394,23 +394,19 @@ However, due to a lack of communication, differing data formats used by the fron
 
  
 
-6. Endeavor to automate when needed
+## 6. Endeavor to automate when needed
 Feature testing should be repeated. Changes or additions should be tested.
 
 Automated testing can reduce repetitive manual work, especially for regression tests. You programme software to test the product's quality automatically. Automated tests have many benefits, including the flexibility to test multiple products simultaneously on different devices, testing outside business hours, and more.
 
 Automated tests take longer than manual tests and require certain, mostly costly technologies. Automate only if it's worthwhile. If a test case is run more than twice, it can be automated. Test automation can be maximized with careful preparation.
 
- 
-
-7. Prioritize User Experience
+ ## 7. Prioritize User Experience
 QA must prioritize end-user experience over customer or designer choices. A skilled QA engineer ignores trends and concentrates on user experience.
 
 In the discovery stage, build a buyer persona to understand consumer expectations. An ideal buyer persona describes their routines and preferences. This knowledge will help you design an audience-pleasing product.
 
 QA professionals should test applications from the end user's perspective.
-
-
 
 
 
@@ -433,12 +429,12 @@ The benefits of Project Scope Management consist of enhanced project planning, h
 
 Misunderstandings among project team members, stakeholders, and clients are mitigated by transparent communication about project scope and objectives. A good example of such is in a software development project, where the scope covers everything from concept creation through final deployment. Hardware acquisition and infrastructure setup are outside the scope and are handled by a different group or provider.
 
-What is Project Scope Management?
+## What is Project Scope Management?
 Project Scope Management is responsible for outlining, scheduling, tracking, and closing the tasks that must be completed in order to accomplish the project's stated goals and objectives. It includes managing the requirements, deliverables, tasks, deadlines, and limitations of a project and entails tracking and responding to changes as they occur. Managing the scope of a project is essential to its success since it helps keep it within its parameters, satisfies stakeholders' needs, and finishes on schedule and on budget.
 
 Scope management for a project is effective as it involves breaking the project down into smaller, more manageable chunks, defining the scope of work for each chunk, creating a plan for managing scope, reviewing progress against the plan, and making adjustments as needed to keep the project on track.
 
-What is the Importance of Project Scope Management?
+## What is the Importance of Project Scope Management?
 
 The importance of Project Scope Management is widely recognized in the project management community. It is a fundamental process that helps project managers to define the project objectives, determine the scope of work, and set boundaries for the project.
 
@@ -486,7 +482,7 @@ Developing a detailed project schedule has several benefits, including:
 4.Ensuring timely project completion.
 
 
-Gantt charts assist in this process by:
+## Gantt charts assist in this process by:
 
 -Sources
 -Providing visual clarity
@@ -557,7 +553,7 @@ Who is who in the project? Who is the manager? Who is part of the project team? 
 How will we communicate important information, such as, e.g., project status updates? How often will it be shared?
  
 
-Challenge # 3: Software Integration
+## Challenge # 3: Software Integration
 Integration is one of the most important phases of software development. Most hidden bugs come to light at this stage of the project. Statistics show that as much as 70% of system integrations fail to meet the targets, which is a real challenge for IT teams.
 
 The best way to address software integration is to rely on network services. In order to achieve integration and data flow between platforms, flexible network services must support SOAP (Simple Object Access Protocol) and REST (Representational State Transfer) protocol standards. A correct integration should enable you to move from file-based integration to network services integration.
@@ -570,7 +566,7 @@ Next, share the API in the DEV and TEST environments. Your test API must contain
 Last but not least, you need to add integration tests to your CI/CD pipeline.
  
 
-Challenge # 4: Software Quality
+## Challenge # 4: Software Quality
 Low software quality involves a number of negative side effects, which directly translate into low customer satisfaction ratings. And, as you know, a dissatisfied customer is a customer who refuses to pay for your services, often breaks the contract, and signs on your competition. 
 
 If you frequently release low-quality solutions, customer loyalty will weaken, and they will leave, which spells lower performance and redundancy programs for your business.
@@ -589,7 +585,7 @@ Each stage of bug detection has a different cost estimation.
 
  
 
-Challenge # 5: Technical Debt
+## Challenge # 5: Technical Debt
 Technical debt is a shortcut – businesses might feel tempted to take it on when they want to meet their needs quickly and, e.g., release a product before their competition does. To do so, you might reach for non-optimal technical solutions; these will frequently meet your short-term goals (which may make sense in business terms, e.g., if we want to verify a hypothesis quickly) but may stand in the way of your long-term plans or even make them impossible to achieve.
 
 It is important to understand that before you have paid off your technical debt, you will not be able to make any new investments or further streamline your projects. 
@@ -852,6 +848,7 @@ Example:
 “This document describes the architecture of the ‘Acme E-commerce Platform.’ The platform aims to provide a seamless online shopping experience for customers, enabling them to browse products, place orders, and manage their accounts. The system will integrate with existing inventory management and payment gateway systems. A key constraint is the need to support high traffic volumes during peak shopping seasons.”
 
 2. Architectural Views
+   
 Architectural views present the system from different perspectives, addressing specific concerns and audiences. Common architectural views include:
 
 Logical View: Focuses on the functional requirements and how the system is decomposed into modules and components. It illustrates the relationships and interactions between these components.
@@ -864,7 +861,9 @@ Physical View: Depicts the system’s physical deployment, including hardware, n
 Example: Deployment diagrams, network diagrams.
 Data View: Focuses on the structure and organization of data within the system. It illustrates data entities, relationships, and data flow.
 Example: Entity-relationship diagrams (ERDs), data flow diagrams (DFDs).
+
 3. Technology Stack
+   
 This section details the technologies used to build the system. It should include:
 
 Programming Languages: List the languages used for different components (e.g., Java for backend, JavaScript for frontend).
@@ -878,6 +877,7 @@ Documenting the key design decisions and the reasoning behind them is crucial. T
 Architectural Styles and Patterns: Describe the architectural styles and patterns employed (e.g., microservices, layered architecture, MVC).
 Key Design Decisions: Document significant choices made during the design process (e.g., technology selections, data storage strategies, communication mechanisms).
 Rationale: Explain the reasons behind each decision, considering factors like performance, scalability, security, maintainability, and cost.
+
 5. Quality Attributes
 Clearly define the system’s non-functional requirements, also known as quality attributes. These attributes significantly influence the architecture and should be documented explicitly.
 
@@ -886,7 +886,9 @@ Scalability: Describe how the system should scale to handle increasing loads.
 Security: Outline security requirements, including authentication, authorization, and data protection.
 Reliability: Define the system’s expected uptime and fault tolerance capabilities.
 Maintainability: Describe how the system is designed for ease of maintenance and updates.
+
 6. Diagrams
+   
 Visual representations are essential for effectively communicating architectural information. Use diagrams to illustrate different aspects of the system:
 
 Context Diagrams: Show the system’s boundaries and its interactions with external entities.
@@ -914,7 +916,9 @@ Review and Feedback: Regularly review the documentation and solicit feedback fro
 Make it Accessible: Ensure the documentation is easily accessible to those who need it.
 Use a Template: Start with a template to ensure consistency and coverage of essential information.
 Automate Where Possible: Leverage tools to automate documentation generation and updates whenever possible.
+
 Example: Documenting a Microservices Architecture
+
 Let’s consider an e-commerce platform with a microservices architecture. Here’s how you might document it:
 
 1. Architectural Overview:
@@ -930,17 +934,8 @@ Process View: Sequence diagrams showing the flow of requests between services fo
 Physical View: A deployment diagram showing how microservices are deployed across multiple servers and availability zones.
 
 
-
-
 ## 11. What are the main features or functionalities that make your software stand out?
 
-op Characteristics of Software
-
-1. Functionality The functionality of software refers to its ability to perform and function according to design specifications. ...
-2. Usability (User-friendly) The user-friendliness of the software is characterized by its ease of use. ...
-3. Efficiency ...
-4. Flexibility ...
-5. Reliability ...
 
 Top Characteristics of Software
 The quality of a software product is determined by what it offers and how easily it can be used. Software is judged by different people on different grounds. Customers, for instance, want software that meets their specific needs. Similarly, developers engaged in designing, coding, and maintaining the software determine the quality of the software by assessing its internal characteristics. Let’s check them out…
@@ -992,7 +987,6 @@ The process of software engineering begins with analyzing the needs of the users
 The characteristics above are easy to find in a great product due to today’s heightened levels of design knowledge among software developers. It simply depends on how well resources are used to produce a high-quality software product. The significance of any one of these characteristics will vary depending on the application. Integrity and reliability factors are paramount in systems where lives are at stake. Whenever developing a business-related application, usability and maintainability are important factors to consider. As always, when it comes to Software Engineering, quality is everything. Create a product that possesses all of these qualities and characteristics.
 
 
-
 ## 12. What data is available regarding the market size and growth potential for your software?
 
 Software: market data & analysis
@@ -1017,6 +1011,7 @@ Companies’ needs for data insights, customer analyses, and all kinds of busine
 The second largest segment, Application Development Software, is experiencing strong growth, driven by the high demand for products and technologies that enable digitization. Consumers’ demand for a better digital experience increases the attractiveness of application platforms or platform-as-a-service options, which help to manage the increasing complexity of application infrastructure on behalf of developers. The trend towards new technologies such as Internet of Things (IoT) and Artificial Intelligence (AI) offers further growth potential for this segment in the upcoming years.
 
 The last segment, Productivity Software, supports basic business activities in a digital environment and therefore helps companies to become more flexible in business processes and decision-making in order to react faster to market developments. The biggest segment, Office Software, makes up more than a third of the market and is used in many companies, dominated by Microsoft Office applications. In recent times, in particular the segment of Collaboration Software has become more attractive to companies that focus on agile methods and new work.
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
 
 As a product manager, you need to understand the market trends and competition that affect your product's performance and potential. By analyzing these factors, you can identify opportunities, threats, and gaps in the market, and adjust your product strategy accordingly.
